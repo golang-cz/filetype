@@ -1,0 +1,6 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/gbrlsnchs/color v0.1.0 h1:kqGI5bcsfjpkIhVL1g4IpuCA5DL+lnF1mFy8XZ7ffKg=
+github.com/gbrlsnchs/color v0.1.0/go.mod h1:DqmJ75IHg1obs9e8r0r7Q691hcywJBRUYtbxu/rBuWg=
+github.com/gbrlsnchs/radix v1.0.0 h1:z0HafxDLhD8mWXiVb3Zo1TB9zJerNNIKBb+BMr071PQ=
+github.com/gbrlsnchs/radix v1.0.0/go.mod h1:Rv0ueYu+grgwp1/ea0UUKeUlqMOqRXzf/3Ud2hFLB+E=
